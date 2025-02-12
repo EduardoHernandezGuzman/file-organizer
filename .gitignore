@@ -1,0 +1,9 @@
+# Archivos compilados
+organizer
+
+# Carpetas de prueba
+test_files/
+
+# Archivos del sistema
+.DS_Store
+*.o
